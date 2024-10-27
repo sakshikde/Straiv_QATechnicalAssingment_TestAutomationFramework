@@ -1,0 +1,22 @@
+{
+  "validUser": {
+    "name": "Sakshi Kale",
+    "email": "sakshi.kale@gmail.com",
+    "password": "Password123",
+    "day": "16",
+    "month": "December",
+    "year": "1996",
+    "firstName": "Sheldon",
+    "lastName": "Cooper",
+    "address": "Berlin",
+    "country": "Canada",
+    "state": "Berlin",
+    "city": "Berlin",
+    "zipcode": "13509",
+    "mobileNumber": "+4915663425436"
+  },
+  "invalidUser": {
+    "email": "incorrect.email@gmail.com",
+    "password": "IncorrectPassword"
+  }
+}
