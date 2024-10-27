@@ -1,0 +1,1 @@
+# Straiv_QATechnicalAssingment_TestAutomationFramework
